@@ -1,0 +1,11 @@
+安装与启动命令：Annaconda prompt中输入
+conda create --name=labelme python=2.7
+activate labelme
+conda install pyqt5
+pip install labelme
+说明：2.7对应pyqt，3.6对应pyqt5
+
+启动命令：
+activate labelme
+labelme
+参考链接：https://blog.csdn.net/zong596568821xp/article/details/83375227
