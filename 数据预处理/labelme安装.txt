@@ -1,11 +1,14 @@
-°²×°ÓëÆô¶¯ÃüÁî£ºAnnaconda promptÖĞÊäÈë
+å®‰è£…ä¸å¯åŠ¨å‘½ä»¤ï¼šAnnaconda promptä¸­è¾“å…¥
 conda create --name=labelme python=2.7
 activate labelme
 conda install pyqt5
 pip install labelme
-ËµÃ÷£º2.7¶ÔÓ¦pyqt£¬3.6¶ÔÓ¦pyqt5
+è¯´æ˜ï¼š2.7å¯¹åº”pyqtï¼Œ3.6å¯¹åº”pyqt5
 
-Æô¶¯ÃüÁî£º
+å¯åŠ¨å‘½ä»¤ï¼š
 activate labelme
 labelme
-²Î¿¼Á´½Ó£ºhttps://blog.csdn.net/zong596568821xp/article/details/83375227
+å‚è€ƒé“¾æ¥ï¼šhttps://blog.csdn.net/zong596568821xp/article/details/83375227
+
+
+pip install opencv-python -i https://pypi.tuna.tsinghua.edu.cn/simple
